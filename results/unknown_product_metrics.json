@@ -1,0 +1,31 @@
+{
+  "confidence_threshold": 0.45,
+  "model_library": [
+    {
+      "product": "product1",
+      "ok_samples": 50,
+      "feature_radius": 3.3571982383728027
+    },
+    {
+      "product": "product2",
+      "ok_samples": 56,
+      "feature_radius": 5.777667045593262
+    }
+  ],
+  "identity_accuracy": 0.9114583333333334,
+  "identity_correct": 175,
+  "identity_total": 192,
+  "auto_identity_accuracy": 0.9943181818181818,
+  "auto_identity_correct": 175,
+  "auto_identity_total": 176,
+  "auto_coverage": 0.9166666666666666,
+  "review_rate": 0.08333333333333333,
+  "low_confidence_count": 16,
+  "image": {
+    "accuracy": 0.8125,
+    "precision": 0.7232142857142857,
+    "recall": 0.9418604651162791,
+    "f1": 0.8181818181818182,
+    "iou": 0.6923076923076923
+  }
+}

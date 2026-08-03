@@ -1,0 +1,56 @@
+[
+  {
+    "product": "product1",
+    "threshold": 97.0,
+    "ok_only_threshold_reference": 77.97254943847656,
+    "image_area_threshold": 800.0,
+    "pixel": {
+      "accuracy": 0.9916395547572331,
+      "precision": 0.2977620725826535,
+      "recall": 0.4855722342039116,
+      "f1": 0.3691527195796402,
+      "iou": 0.2263564001434206
+    },
+    "image": {
+      "accuracy": 0.967032967032967,
+      "precision": 0.9523809523809523,
+      "recall": 0.975609756097561,
+      "f1": 0.963855421686747,
+      "iou": 0.9302325581395349
+    },
+    "defect": {
+      "recall": 0.5454545454545454,
+      "precision": 0.2564102564102564,
+      "matched_defects": 30,
+      "gt_defects": 55,
+      "false_positive_components": 87
+    }
+  },
+  {
+    "product": "product2",
+    "threshold": 55.0,
+    "ok_only_threshold_reference": 180.51040649414062,
+    "image_area_threshold": 32000.0,
+    "pixel": {
+      "accuracy": 0.940981268419505,
+      "precision": 0.2618278011920946,
+      "recall": 0.6191879679497198,
+      "f1": 0.3680311518845929,
+      "iou": 0.22551358888350975
+    },
+    "image": {
+      "accuracy": 0.7029702970297029,
+      "precision": 0.6119402985074627,
+      "recall": 0.9111111111111111,
+      "f1": 0.7321428571428571,
+      "iou": 0.5774647887323944
+    },
+    "defect": {
+      "recall": 0.9347826086956522,
+      "precision": 0.03775241439859526,
+      "matched_defects": 43,
+      "gt_defects": 46,
+      "false_positive_components": 1096
+    }
+  }
+]
