@@ -1,5 +1,7 @@
 # Industrial Vision Inspection
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 An end-to-end classical computer-vision pipeline for sub-pixel dimensional measurement, product-specific defect inspection, and confidence-aware routing of previously unseen inputs.
 
 > Course project for *Machine Vision Technology and Industrial Applications*. The public repository contains code, evaluation summaries, and representative figures; the original industrial image set is intentionally excluded.
